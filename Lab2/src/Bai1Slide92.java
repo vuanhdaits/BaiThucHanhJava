@@ -1,8 +1,9 @@
 import java.util.Scanner;
 
-public class Bai1Chuong1 {
+public class Bai1Slide92 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         System.out.print("Nhap vao so thu nhat : ");
         double a = sc.nextDouble();
         System.out.print("Nhap vao so thu hai : ");
@@ -12,6 +13,7 @@ public class Bai1Chuong1 {
         double tich = a * b;
         double thuong = 0;
         double chiaDu = 0;
+        
         if (b != 0) {
             thuong = a / b;
             chiaDu = a % b;
