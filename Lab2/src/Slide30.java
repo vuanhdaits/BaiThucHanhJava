@@ -4,6 +4,7 @@ public class Slide30 {
     public static void main(String[] args) {
         int n, so_du, tong = 0;
         Scanner sc = new Scanner (System.in);
+        
         System.out.println("Nhap vao mot so duong bat ky: ");
         n = sc.nextInt();
 
