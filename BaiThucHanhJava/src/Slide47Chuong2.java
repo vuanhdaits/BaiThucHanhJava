@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Slide47 {
+public class Slide47Chuong2 {
     public static void main(String[] args) {
         float sum = 0, number;
         Scanner sc = new Scanner (System.in);
