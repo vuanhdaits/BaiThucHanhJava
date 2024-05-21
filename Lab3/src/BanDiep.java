@@ -1,4 +1,4 @@
-public class DiepKhac extends Human {
+public class BanDiep extends Human {
     void Hair () (
         System.out.println("Diep co mai toc xoan");
     )
