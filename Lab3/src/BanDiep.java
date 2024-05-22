@@ -1,13 +1,13 @@
 public class BanDiep extends Human {
-    void Hair () (
+    public void Hair (){
         System.out.println("Diep co mai toc xoan");
-    )
+    }
 
-    void Face () {
+    public void Face (){
         System.out.println("Diep mat nhu Lee Min Ho");
     }
 
-    void Eat () {
+    public void Eat (){
         System.out.println("Diep an hai san");
     }
 }
